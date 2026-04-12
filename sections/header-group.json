@@ -53,7 +53,7 @@
       "settings": {
         "announcement_bar": true,
         "announcement_bar_homepage_only": false,
-        "announcement_bar_layout": "carousel",
+        "announcement_bar_layout": "marquee",
         "direction": "left",
         "speed": "20s",
         "use_block_colors": false,
