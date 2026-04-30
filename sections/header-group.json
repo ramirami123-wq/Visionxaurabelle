@@ -14,6 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "text_RyX9Gt": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Choose your free item by ordering above $50",
+            "link": "",
+            "color_bg": "#3f72e5",
+            "color_text": "#ffffff"
+          }
+        },
         "888fc484-50e5-4566-bad6-41e835d00d5f": {
           "type": "text",
           "settings": {
@@ -26,6 +36,7 @@
         }
       },
       "block_order": [
+        "text_RyX9Gt",
         "888fc484-50e5-4566-bad6-41e835d00d5f"
       ],
       "custom_css": [
